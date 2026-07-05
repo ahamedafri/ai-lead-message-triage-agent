@@ -1,0 +1,6 @@
+{
+  "name": "AI Lead & Message Triage Agent",
+  "description": "An AI-powered inbox triage tool for small businesses that classifies messages by urgency, lead quality, and flags sensitive cases.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
