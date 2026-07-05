@@ -1,6 +1,6 @@
 import type { VercelRequest, VercelResponse } from "@vercel/node";
 import dotenv from "dotenv";
-import { draftReplyWithGroq, heuristicDraftReply } from "../src/services/classifier";
+import { draftReplyWithGroq, heuristicDraftReply } from "./classifier_utils";
 
 dotenv.config();
 
